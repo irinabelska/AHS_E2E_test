@@ -1,0 +1,6 @@
+[
+  { "name": "ramp-up", "duration": 15000, "parallelization": 10, "expected": { "duration90p": 2000 } },
+  { "name": "sustain", "duration": 20000, "parallelization": 20, "expected": { "duration90p": 2000 } },
+  { "name": "peak", "duration": 10000, "parallelization": 20, "expected": { "duration90p": 2000 } },
+  { "name": "ramp-down", "duration": 10000, "parallelization": 10, "expected": { "duration90p": 2000 } }
+]

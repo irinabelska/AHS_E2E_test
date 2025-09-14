@@ -1,0 +1,1 @@
+[{ "name": "sustain", "duration": 2000, "parallelization": 10, "expected": { "duration90p": 50000 } }]
